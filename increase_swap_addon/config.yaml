@@ -12,7 +12,7 @@ startup: services
 boot: "auto"
 init: false
 options:
-  swap_size: 32
+  swap_size: 256
 schema:
   swap_size: int(16,512)
 privileged:
