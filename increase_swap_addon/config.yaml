@@ -14,6 +14,6 @@ init: false
 options:
   swap_size: 32
 schema:
-  swap_size: int(16,32)
+  swap_size: int(16,512)
 privileged:
   - SYS_ADMIN
